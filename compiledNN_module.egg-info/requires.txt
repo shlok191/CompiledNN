@@ -1,0 +1,8 @@
+numpy
+pybind11
+
+[dev]
+pybind11
+
+[test]
+pytest>=6.0

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+compiledNN_module.egg-info/PKG-INFO
+compiledNN_module.egg-info/SOURCES.txt
+compiledNN_module.egg-info/dependency_links.txt
+compiledNN_module.egg-info/not-zip-safe
+compiledNN_module.egg-info/requires.txt
+compiledNN_module.egg-info/top_level.txt

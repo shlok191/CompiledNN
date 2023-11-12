@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: compiledNN-module
+Version: 1.0
+Summary: Pybind11 interface for the compiledNN library
+Author: Your Name
+Author-email: your.email@example.com
+Provides-Extra: dev
+Provides-Extra: test
+License-File: LICENSE
